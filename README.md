@@ -2,6 +2,8 @@
 <a href=""><img src="https://user-images.githubusercontent.com/83712521/212296254-6f8123fe-50a3-4613-9461-b183d5c29b47.png" width="30" height="30">
 
 Notion : https://florentine-harmony-dc0.notion.site/Jung-yu-seok-cdf005034f5941a1852d7355246f4975
+ 
+ 
 블로그 : https://velog.io/@dbtjr1103
 
 <br/>
