@@ -1,28 +1,29 @@
-# ML Engineer
+# Data Analyst & ML Engineer
 
-#### 
-### Hi, I'm Yuseok Jung / 29
-
-<br/>
-
-#### 📱Contact
-
-<img src="https://img.shields.io/badge/Phone-010--6389--6381-green?style=flat-square&logo=Phone&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Github-dbTJR1103-black?style=flat-square&logo=Github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Email-dbtjr1103%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Notion-Yuseok7-blue?style=flat-square&logo=Notion&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Blog-Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>
-
-
+### 
+## Hi, I'm Yuseok Jung / 29
 
 <br/>
+
+### 📱Contact
+
+[![Phone](https://img.shields.io/badge/Phone-010--6389--6381-green?style=flat-square&logo=Phone&logoColor=white)](tel:01063896381)
+
+[![Github](https://img.shields.io/badge/Github-dbTJR1103-black?style=flat-square&logo=Github&logoColor=white)](https://github.com/dbTJR1103)
+
+[![Email](https://img.shields.io/badge/Email-dbtjr1103%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:dbtjr1103@gmail.com)
+
+[![Notion](https://img.shields.io/badge/Notion-Yuseok%20Jung-blue?style=flat-square&logo=Notion&logoColor=white)](https://yuseok7.notion.site/Yuseok-Jung-_-cdf005034f5941a1852d7355246f4975)
+
+[![Blog](https://img.shields.io/badge/Blog-Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white)](https://velog.io/@dbtjr1103)
+
+
+
+
+<br/>
 <br/>
 
-✏ **Task**
+### ✏ **Task**
 
 - Competition - [<img src="https://img.shields.io/badge/CV-Object%20Detection, Kaggle-blue"/>](https://github.com/dbtjr1103/Kaggle_NFL) [<img src="https://img.shields.io/badge/CV-Object%20Detection, Kaggle-blue"/>](https://github.com/dbtjr1103/Kaggle_CarClassification) [<img src="https://img.shields.io/badge/ML-Video%20Classification, Dacon-yellow"/>](https://github.com/dbtjr1103/DACON_Crash_Video_Classification) [<img src="https://img.shields.io/badge/ML-Classification, Dacon-yellow"/>](https://github.com/dbtjr1103/DACON_Basic-Phone-Cancellation)
 
@@ -30,6 +31,8 @@
 
 - Practice - [<img src="https://img.shields.io/badge/CV-Pose%20Estimation, Kaggle-blue"/>](https://github.com/dbtjr1103/CV_NFL_PoseEstimation_Yolov8)
 
+- EDA - [<img src="https://img.shields.io/badge/EDA-Dacon%20Basic%20Calls-red"/>](https://github.com/dbtjr1103/DACON_Basic-Phone-Cancellation/blob/main/dacon-basic-calls-eda.ipynb)
+
 
 
 
@@ -37,7 +40,7 @@
 <br/>
 <br/>
 
-⚙️ **Tech Stack**
+### ⚙️ **Tech Stack**
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
 
@@ -47,7 +50,7 @@
 <br/>
 <br/>  
  
-🛠 **Tool**
+### 🛠 **Tool**
 
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> 
 
@@ -56,7 +59,7 @@
 
  
   
-🏆 **Award**
+### 🏆 **Award**
  
 **ㆍ <a href="https://www.kaggle.com/competitions/nfl-player-contact-detection">1st and Future - Player Contact Detection</a>**  (Private 61위, 동메달(Top 7%))
 
@@ -71,7 +74,7 @@
 <br/>
 <br/>
  
-📚 **Stats**
+### 📚 **Stats**
  
 ![dbtjr1103의 GitHub 통계](https://github-readme-stats.vercel.app/api?username=dbtjr1103&show_icons=trueshow_icons=true&theme=merko)
 
