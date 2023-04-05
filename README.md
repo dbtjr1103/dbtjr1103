@@ -24,7 +24,13 @@
 
 ✏ **Task**
 
-<a href="https://github.com/dbtjr1103/mainpj"><img src="https://img.shields.io/badge/CV-Object Detection-blue"/> 
+- Competition - [<img src="https://img.shields.io/badge/CV-Object%20Detection, Kaggle-blue"/>](https://github.com/dbtjr1103/Kaggle_NFL) [<img src="https://img.shields.io/badge/CV-Object%20Detection, Kaggle-blue"/>](https://github.com/dbtjr1103/Kaggle_CarClassification) [<img src="https://img.shields.io/badge/ML-Video%20Classification, Dacon-yellow"/>](https://github.com/dbtjr1103/DACON_Crash_Video_Classification) [<img src="https://img.shields.io/badge/ML-Classification, Dacon-yellow"/>](https://github.com/dbtjr1103/DACON_Basic-Phone-Cancellation)
+- Project - [<img src="https://img.shields.io/badge/CV-Object%20Detection, Android App-blue"/>](https://github.com/dbtjr1103/ShowNow) [<img src="https://img.shields.io/badge/CV-Object%20Detection, Project-blue"/>](https://github.com/dbtjr1103/CV_Plastic-R) 
+
+- Practice - [<img src="https://img.shields.io/badge/CV-Pose%20Estimation, Kaggle-blue"/>](https://github.com/dbtjr1103/CV_NFL_PoseEstimation_Yolov8)
+
+
+
 
 
 <br/>
