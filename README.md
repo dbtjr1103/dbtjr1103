@@ -61,16 +61,16 @@
   
 ### 🏆 **Award**
  
-**ㆍ <a href="https://www.kaggle.com/competitions/nfl-player-contact-detection">1st and Future - Player Contact Detection</a>**  (Private 61st, Bronze🥉 (Top 7%))
+**ㆍ <a href="https://www.kaggle.com/competitions/nfl-player-contact-detection">1st and Future - Player Contact Detection</a>**  (Private 61st, Bronze🥉 (Top 7%) / 939팀)
 
-**ㆍ <a href="https://www.kaggle.com/competitions/counting-and-categorizing-vehicles-in-surveillance">Counting and categorizing vehicles in surveillance</a>**  (Public 1st🥇, Private 1위)
+**ㆍ <a href="https://www.kaggle.com/competitions/counting-and-categorizing-vehicles-in-surveillance">Counting and categorizing vehicles in surveillance</a>**  (Public 1st🥇, Private 1위 / 상금 20만원)
 
  
-**ㆍ <a href="https://dacon.io/competitions/official/236064/overview/description">데이콘 제1회 코스포 x 데이콘 자동차 충돌 분석 AI경진대회</a>**  (Public 13위, Private 2위🥈)
+**ㆍ <a href="https://dacon.io/competitions/official/236064/overview/description">데이콘 제1회 코스포 x 데이콘 자동차 충돌 분석 AI경진대회</a>**  (Public 13위, Private 2위🥈 / 839명)
 
-**ㆍ <a href="https://dacon.io/en/competitions/official/236075/overview/description">데이콘 Basic 전화 해지 여부 분류 AI 경진대회</a>**  (Public 28위)
+**ㆍ <a href="https://dacon.io/en/competitions/official/236075/overview/description">데이콘 Basic 전화 해지 여부 분류 AI 경진대회</a>**  (Public 28위 / 762명)
 
-**ㆍ <a href="https://dacon.io/en/competitions/official/236071/overview/description">월간 데이콘 ChatGPT 활용 AI 경진대회</a>**  (Private 7위)
+**ㆍ <a href="https://dacon.io/en/competitions/official/236071/overview/description">월간 데이콘 ChatGPT 활용 AI 경진대회</a>**  (Private 7위 / 1087명)
  
  
 <br/>
