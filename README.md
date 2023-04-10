@@ -69,6 +69,8 @@
 **ㆍ <a href="https://dacon.io/competitions/official/236064/overview/description">데이콘 제1회 코스포 x 데이콘 자동차 충돌 분석 AI경진대회</a>**  (Public 13위, Private 2위🥈)
 
 **ㆍ <a href="https://dacon.io/en/competitions/official/236075/overview/description">데이콘 Basic 전화 해지 여부 분류 AI 경진대회</a>**  (Public 28위)
+
+**ㆍ <a href="https://dacon.io/en/competitions/official/236071/overview/description">월간 데이콘 ChatGPT 활용 AI 경진대회</a>**  (Private 7위)
  
  
 <br/>
