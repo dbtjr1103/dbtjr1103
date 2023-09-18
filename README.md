@@ -17,6 +17,8 @@
 
 [![Blog](https://img.shields.io/badge/Blog-Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white)](https://velog.io/@dbtjr1103)
 
+[special lecture](https://www.canva.com/design/DAFuv9y6v7o/_lC0EXMTVD7PRQx0ga9lvw/view?utm_content=DAFuv9y6v7o&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#8)
+
 
 
 
